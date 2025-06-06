@@ -1,4 +1,3 @@
-save.image("C:\\Users\\EvangelosVassiliou\\OneDrive - chios.aegean.gr\\My_lecture_notes\\aegean university\\simulation\\MM1.RData")
 
 time=0.0
 
